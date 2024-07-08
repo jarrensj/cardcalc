@@ -70,5 +70,61 @@
     "aura": 25,
     "skill": 24,
     "stamina": 24
+  },
+  {
+    "name": "ACCOUNTABLE ANT",
+    "rarity": 0,
+    "score": 72,
+    "aura": 25,
+    "skill": 23,
+    "stamina": 24
+  },
+  {
+    "name": "ADAPTABLE ALIEN",
+    "rarity": 0,
+    "score": 72,
+    "aura": 24,
+    "skill": 24,
+    "stamina": 24
+  },
+  {
+    "name": "FOREVER PHOENIX",
+    "rarity": 0,
+    "score": 72,
+    "aura": 24,
+    "skill": 23,
+    "stamina": 25
+  },
+  {
+    "name": "FORTHRIGHT FLAMINGO",
+    "rarity": 0,
+    "score": 72,
+    "aura": 24,
+    "skill": 24,
+    "stamina": 24
+  },
+  {
+    "name": "HEART TROOPER",
+    "rarity": 0,
+    "score": 72,
+    "aura": 23,
+    "skill": 25,
+    "stamina": 24
+  },
+  {
+    "name": "NIFTY NARWHAL",
+    "rarity": 0,
+    "score": 72,
+    "aura": 24,
+    "skill": 24,
+    "stamina": 24
+  },
+  {
+    "name": "RESILIENT RED DEVIL",
+    "rarity": 0,
+    "score": 72,
+    "aura": 24,
+    "skill": 24,
+    "stamina": 24
   }
 ]
