@@ -30,5 +30,45 @@
     "aura": 24,
     "skill": 25,
     "stamina": 25
+  },
+  {
+    "name": "ARBITRAGING ADMIRAL",
+    "rarity": 0,
+    "score": 73,
+    "aura": 24,
+    "skill": 25,
+    "stamina": 24
+  },
+  {
+    "name": "BEFFUDLED BURGLAR",
+    "rarity": 0,
+    "score": 73,
+    "aura": 24,
+    "skill": 25,
+    "stamina": 24
+  },
+  {
+    "name": "EMPATHY ELEPHANT",
+    "rarity": 0,
+    "score": 73,
+    "aura": 24,
+    "skill": 25,
+    "stamina": 24
+  },
+  {
+    "name": "THOUGHTFUL THREE-HORNED HARPIK",
+    "rarity": 0,
+    "score": 73,
+    "aura": 24,
+    "skill": 25,
+    "stamina": 24
+  },
+  {
+    "name": "VERSATILE VIKING",
+    "rarity": 0,
+    "score": 73,
+    "aura": 25,
+    "skill": 24,
+    "stamina": 24
   }
 ]
