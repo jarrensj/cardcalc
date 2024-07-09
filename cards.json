@@ -126,5 +126,53 @@
     "aura": 24,
     "skill": 24,
     "stamina": 24
+  },
+  {
+    "name": "ALERT APE",
+    "rarity": 0,
+    "score": 71,
+    "aura": 24,
+    "skill": 23,
+    "stamina": 24
+  },
+  {
+    "name": "ENTREPRENEUR ELF",
+    "rarity": 0,
+    "score": 71,
+    "aura": 24,
+    "skill": 24,
+    "stamina": 23
+  },
+  {
+    "name": "GRATITUDE GORILLA",
+    "rarity": 0,
+    "score": 71,
+    "aura": 23,
+    "skill": 25,
+    "stamina": 23
+  },
+  {
+    "name": "KIND WARRIOR",
+    "rarity": 0,
+    "score": 71,
+    "aura": 24,
+    "skill": 24,
+    "stamina": 23
+  },
+  {
+    "name": "MAJOR MOTH",
+    "rarity": 0,
+    "score": 71,
+    "aura": 24,
+    "skill": 24,
+    "stamina": 23
+  },
+  {
+    "name": "NOTORIOUS NINJA",
+    "rarity": 0,
+    "score": 71,
+    "aura": 24,
+    "skill": 25,
+    "stamina": 22
   }
 ]
