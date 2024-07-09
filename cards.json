@@ -232,6 +232,23 @@
     "stamina": 24
   },
   {
+    "name": "BULLISH BULL",
+    "rarity": 0,
+    "score": 69,
+    "aura": 24,
+    "skill": 21,
+    "stamina": 24
+  },
+  {
+    "name": "BULLISH BULL",
+    "rarity": 2,
+    "score": 69,
+    "total": 86,
+    "aura": 24,
+    "skill": 21,
+    "stamina": 24
+  },
+  {
     "name": "DETERMINED DOLPHIN",
     "rarity": 0,
     "score": 69,
