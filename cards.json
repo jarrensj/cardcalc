@@ -230,5 +230,22 @@
     "aura": 22,
     "skill": 24,
     "stamina": 24
+  },
+  {
+    "name": "DETERMINED DOLPHIN",
+    "rarity": 0,
+    "score": 69,
+    "aura": 21,
+    "skill": 24,
+    "stamina": 24
+  },
+  {
+    "name": "DETERMINED DOLPHIN",
+    "rarity": 2,
+    "score": 69,
+    "total": 86,
+    "aura": 21,
+    "skill": 24,
+    "stamina": 24
   }
 ]
