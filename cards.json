@@ -174,5 +174,61 @@
     "aura": 24,
     "skill": 25,
     "stamina": 22
+  },
+  {
+    "name": "5555 FAN",
+    "rarity": 0,
+    "score": 70,
+    "aura": 23,
+    "skill": 23,
+    "stamina": 24
+  },
+  {
+    "name": "ADVETUROUS ASTRONAUT",
+    "rarity": 0,
+    "score": 70,
+    "aura": 23,
+    "skill": 24,
+    "stamina": 23
+  },
+  {
+    "name": "FLEX N' FOX",
+    "rarity": 0,
+    "score": 70,
+    "aura": 24,
+    "skill": 23,
+    "stamina": 23
+  },
+  {
+    "name": "HUNGRY HAMMERHEAD",
+    "rarity": 0,
+    "score": 70,
+    "aura": 22,
+    "skill": 24,
+    "stamina": 24
+  },
+  {
+    "name": "IMPECCABLE INOSTRANET",
+    "rarity": 0,
+    "score": 70,
+    "aura": 23,
+    "skill": 23,
+    "stamina": 24
+  },
+  {
+    "name": "LEGENDARY LEMUR",
+    "rarity": 0,
+    "score": 70,
+    "aura": 23,
+    "skill": 23,
+    "stamina": 24
+  },
+  {
+    "name": "PATIENT PIG",
+    "rarity": 0,
+    "score": 70,
+    "aura": 22,
+    "skill": 24,
+    "stamina": 24
   }
 ]
